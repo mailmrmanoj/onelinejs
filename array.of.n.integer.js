@@ -1,5 +1,5 @@
 /**
- * Generate array of initeger for 1 to n given in the param.
+ * Generate array of integer from 1 to n given in the param.
  *
  * Usage:
  *
