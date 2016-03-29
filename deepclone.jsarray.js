@@ -17,5 +17,5 @@
 
 
 function DeepcloneArray(arr){
-	return arr.slice();
+	return JSON.parse(JSON.stringify(arr));
 }
